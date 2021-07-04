@@ -1,13 +1,13 @@
 class config:
     BOT_TOKEN = "1607032338:AAGLt9ZBx_1qCtgq_l1b9Vjzt-SLPHKEuvY"
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    APP_ID = "6897195"
+    API_HASH = "575bcb51565b56ad56bb9fbee6000bb4"
+    DATABASE_URL = "postgres://ioycckiiyguqrk:79414a5fa608399c40b9c59bae454e4a60c004a9f6f629f2e0f093d27e10dae6@ec2-54-158-232-223.compute-1.amazonaws.com:5432/d7rliv751t4mpm"
+    SUDO_USERS = "842618940" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/NugrahUplouder"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "595611345606-g7a8f2k0kfk7mri3mgjksdns6vpn47e5.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "fdwIUWkGLs8lDpTIaKKM-cAE"
 
 
 class BotCommands:
